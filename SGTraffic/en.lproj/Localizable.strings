@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  SGTraffic
+
+  Created by tigerspike on 18/12/20.
+  
+*/
+
+//MARK:- AnnotationView Detail
+"latitude"  = "Latitude %lld";
+"longitude" = "Longitude %lld";
+"location"  = "Location";
